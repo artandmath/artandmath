@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @artandmath
 - 👀 I’m interested in pixels
-- 🌱 I’m currently learning openclaw
+- 🦞 I’m currently learning OpenClaw
 - 📫 https://www.linkedin.com/in/harknessdaniel/
