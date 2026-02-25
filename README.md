@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @artandmath
 - 👀 I’m interested in pixels
-- 🌱 I’m currently learning qt,c++,vision ml
-- 💞️ I’m looking to collaborate on vfx pipelines
+- 🌱 I’m currently learning openclaw
 - 📫 https://www.linkedin.com/in/harknessdaniel/
